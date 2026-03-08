@@ -1,5 +1,5 @@
 #----------------------------------
-# Stage 1
+# Stage 1 
 #----------------------------------
 
 # Import docker image with maven installed
